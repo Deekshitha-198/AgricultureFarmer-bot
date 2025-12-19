@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AgroMind AI",
+  "description": "A real-time agricultural assistant providing farmers with data-driven insights on crops, market prices, weather, and pest management using Google Search grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
